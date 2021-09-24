@@ -3,6 +3,7 @@ Hi, my name is Zachary Cooremans! I am a Full Stack Web Developer who is alwasy 
 
 Skills:
 Front-end: HTML, CSS, JavaScript, React.js, Redux, VsCode
+
 Back-end: Node.js, PostgreSQL, Python, PgAdmin
 
 Contact:
